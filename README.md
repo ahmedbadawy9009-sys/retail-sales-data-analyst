@@ -32,3 +32,5 @@ This project evaluates retail transactions to identify key revenue drivers, high
 import pandas as pd
 df = pd.read_csv('data/cleaned_sales_data.csv')
 print("Analysis Completed Successfully!")
+## 📊 Interactive Power BI Dashboard
+![Retail Sales Dashboard](dashboard.png)
