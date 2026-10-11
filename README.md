@@ -28,4 +28,3 @@ This project evaluates retail transactions to identify key revenue drivers, high
 ## 👤 Author
 * **Name:** Ahmed Badawy
 * **Role:** Data Analyst
-*
