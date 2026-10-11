@@ -1,7 +1,5 @@
 
 # 📊 Retail Store Sales & Customer Behavior Analytics
-An end-to-end Data Analytics project demonstrating SQL, Python, Excel, and Power BI.
-# 📊 Retail Store Sales & Customer Behavior Analytics
 
 An end-to-end Data Analytics portfolio project analyzing sales performance and customer purchasing behavior across retail chain stores using **Excel**, **SQL**, **Python**, and **Power BI**.
 
